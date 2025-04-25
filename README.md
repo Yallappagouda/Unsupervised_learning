@@ -30,6 +30,7 @@ transactions = [
     ['milk', 'bread', 'eggs'],
     ['milk', 'diapers', 'beer'],
 ]
+```
 ##OUTPUT
 
 ---![Screenshot 2025-04-24 185645](https://github.com/user-attachments/assets/46b723d9-dc2f-45bc-aff1-9366455ba2e9)
